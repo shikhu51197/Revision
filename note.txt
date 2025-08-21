@@ -1,3 +1,5 @@
+For Reference usecase- https://v3.tailwindcss.com/docs/guides/create-react-app
+
 day1 - counter 
 day2- profile page 
 day3- product page 
