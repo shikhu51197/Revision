@@ -1,0 +1,5 @@
+day1 - counter 
+day2- profile page 
+day3- product page 
+day4-  header home about footer
+day5- 
