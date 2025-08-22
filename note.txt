@@ -4,4 +4,6 @@ day1 - counter
 day2- profile page 
 day3- product page 
 day4-  header home about footer
-day5- 
+day5- Authentication form with logic
+day6 - 
+day7 - 
