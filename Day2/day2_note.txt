@@ -1,0 +1,11 @@
+Day 2 – Profile Page (Destructuring)
+
+#Learn:
+
+Object & array destructuring in React
+Using state & props with destructuring
+
+#👉 Task:
+
+Make a profile card with image , name, age, bio, location.
+Destructure props or state variables before using them.

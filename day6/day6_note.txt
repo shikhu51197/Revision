@@ -1,0 +1,11 @@
+Day 6 – UserCard (Props Handling)
+
+#Learn:
+
+Passing data using props
+Reusing components with different props
+
+#👉 Task:
+
+Create a UserCard component that accepts props (name, role, image, email).
+Render multiple user cards dynamically using an array of users.

@@ -1,0 +1,22 @@
+Day 7 – Small Practical Questions (Concept Understanding)
+
+👉 Sample Questions:
+
+#State & Event Handling
+Create a button that toggles between "ON" and "OFF".
+
+#Destructuring
+Pass a user object as prop ({name, age}) and destructure in component.
+
+#map & Conditional Rendering
+Render a list of tasks. If completed === true, show ✅ else ❌.
+
+#Routing
+Add a new page Contact and link it in the header.
+
+#Form Handling
+Create a form with username and password. On submit, clear the input fields after showing data.
+
+#Props
+Pass a theme prop to a Button component (primary, secondary) and style conditionally with Tailwind.
+

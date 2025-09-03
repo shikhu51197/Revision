@@ -1,0 +1,12 @@
+Day 1 – Counter App (JSX, State Management, onClick Event Handling)
+
+#Learn:
+
+JSX basics
+useState hook for state
+Handling button click events
+
+#👉 Task:
+
+Create a counter with Increment, Decrement, and Reset buttons.
+Display current count dynamically in UI.

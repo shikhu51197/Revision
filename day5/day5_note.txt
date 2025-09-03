@@ -1,0 +1,13 @@
+Day 5 – Authentication Form (Events: onChange, onSubmit & UI Update)
+
+#Learn:
+
+Handling form inputs with useState
+onChange & onSubmit events
+Controlled components
+
+#👉 Task:
+
+Create a Login form with email & password.
+On submit, show entered data in a card below form.
+Bonus: Validate email format (basic check).

@@ -1,0 +1,12 @@
+Day 3 – Product Page (map & Conditional Rendering)
+
+#Learn:
+
+Rendering lists using .map()
+Conditional rendering (? : , &&)
+
+#👉 Task:
+
+Create an array of products (id, name, price, inStock).
+Display them in a product card list.
+If inStock === false, show “Out of Stock” in red.

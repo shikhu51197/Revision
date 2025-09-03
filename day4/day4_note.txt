@@ -1,0 +1,12 @@
+Day 4 – Header, Home, About, Footer (Routing with react-router-dom)
+
+#Learn:
+
+Installing react-router-dom
+BrowserRouter, Routes, Route, Link, NavLink
+
+#👉 Task:
+
+Create a header with navigation (Home, About).
+Each page should have content.
+Add a footer that always stays visible.
