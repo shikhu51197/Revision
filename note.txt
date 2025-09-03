@@ -1,9 +1,9 @@
 For Reference usecase- https://v3.tailwindcss.com/docs/guides/create-react-app
 
-day1 - counter 
-day2- profile page 
-day3- product page 
-day4-  header home about footer
-day5- Authentication form with logic
-day6 - 
+day1 - counter (jsx state management & event handle onClick)
+day2- profile page (destructuring)
+day3- product page (map & conditional rendering)
+day4-  header home about footer (Routing using react-router-dom)
+day5- Authentication form with logic (handle event using onChange, onSubmit & another way to show data on ui )
+day6 - usercard (props handling)
 day7 - 
