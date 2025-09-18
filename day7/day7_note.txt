@@ -1,6 +1,6 @@
 Day 7 – Small Practical Questions (Concept Understanding)
 
-👉 Sample Questions:
+👉 Sample Questions:-
 
 #State & Event Handling
 Create a button that toggles between "ON" and "OFF".

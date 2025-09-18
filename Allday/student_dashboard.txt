@@ -1,0 +1,45 @@
+📌 Combined Challenge – “Student Dashboard App”
+
+👉 Build a Student Dashboard where all concepts from Day 1–7 are applied naturally:
+Routing (Navbar + Pages)
+State & Event Handling (Attendance toggle)
+Destructuring Props (StudentCard)
+map & Conditional Rendering (Subjects list)
+Form Handling (Profile form)
+Reusable Props + Tailwind Styling (Button component)
+
+
+Requirements
+
+1. Header & Routing
+Create a navigation bar with links: Dashboard, Profile, and Contact.
+Use React Router for navigation.
+
+
+
+2. State & Event Handling
+On the Dashboard page, show a button "Show Attendance" that toggles between "Present" ✅ and "Absent" ❌.
+
+
+
+3. Destructuring Props
+Pass a student object ({name, age, grade}) to a StudentCard component and display the details using destructuring.
+
+
+
+4. map & Conditional Rendering
+Display a list of subjects ([{id, subject, completed}]).
+If completed === true, show "Completed ✅" else "Pending ❌".
+
+
+
+5. Form Handling
+On the Profile page, create a form to update username and password.
+On submit, display the entered data below the form, then clear input fields.
+
+
+
+6. Props & Tailwind Styling
+Create a reusable Button component with a theme prop ("primary", "secondary", "danger").
+Use Tailwind to style it differently based on the theme (e.g., blue for primary, gray for secondary, red for danger).
+Use this button for form submit, toggle attendance, etc.
