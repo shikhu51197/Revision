@@ -8,9 +8,6 @@ In this course, you will gain hands-on experience in building modern web applica
 ----
 *📚 Topics You Will Learn*
 
-#AngularJS – Building dynamic single-page applications.
-
-#Vue.js – Reactive components and lightweight UI development.
 
 #React.js – Creating scalable and component-based applications.
 
