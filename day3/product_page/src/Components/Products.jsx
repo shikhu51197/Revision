@@ -1,7 +1,6 @@
 import React from "react";
 
 const Products = () => {
-  // Sample product data with Unsplash images
   const products = [
     { 
       id: 1, 

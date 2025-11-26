@@ -10,3 +10,8 @@ day5- Authentication form with logic (handle event using onChange, onSubmit & an
 day6 - usercard (props handling)
 day7 - Practice  questions based on above Concepts
 Allday- combine task student dashboard 
+api fetch with fakestore api loading error 
+crud operation todo application using reactjs
+signup login crud app  with redux  with popup
+book libary  using reactjs with redux libary full crud operations  toast messages
+Ecommerce application with full plege  features  and good ui . 
